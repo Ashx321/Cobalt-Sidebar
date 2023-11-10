@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cobalt-Sidebar/static/css/main.5104d355.css",
+    "main.js": "/Cobalt-Sidebar/static/js/main.f2a300e7.js",
+    "static/js/787.17cba7a0.chunk.js": "/Cobalt-Sidebar/static/js/787.17cba7a0.chunk.js",
+    "index.html": "/Cobalt-Sidebar/index.html",
+    "main.5104d355.css.map": "/Cobalt-Sidebar/static/css/main.5104d355.css.map",
+    "main.f2a300e7.js.map": "/Cobalt-Sidebar/static/js/main.f2a300e7.js.map",
+    "787.17cba7a0.chunk.js.map": "/Cobalt-Sidebar/static/js/787.17cba7a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5104d355.css",
+    "static/js/main.f2a300e7.js"
+  ]
+}
